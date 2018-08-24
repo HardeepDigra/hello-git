@@ -1,0 +1,31 @@
+*To tell Git who you are: 
+
+git config --global user.name "name"
+
+git config --global user.email "email"
+
+
+*Create a new local repository:
+
+git init
+
+
+*Add files:
+
+git add <filename>
+
+
+*Commit:
+
+git commit -m "Commit message"
+
+
+*Push:
+
+git push origin master
+
+
+*Status:
+
+git status
+
